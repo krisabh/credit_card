@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">payWay</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Credit_score"> Your credit score is a number that represents the risk a lender takes when you borrow money </string>
+
+    <string name="IFSC_code"> It is a 11-digit alpha-numeric code that uniquely identifies a bank branch participating in any RBI regulated funds transfer system </string>
+
+    <string name="detail">Here you can pay your credit card bill online.Even you can get your free credit score  as well as IFSC code.</string>
+
+    <string name="dev">
+        This app is developed by ABHIRAM KRISHNA MOHAN</string>
+    <string name="action_settings">Settings</string>
+</resources>
+
+
+
+
+
+

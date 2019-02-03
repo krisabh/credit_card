@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="117dp"
+        android:layout_marginLeft="7mm"
+        android:layout_marginRight="10mm"
+        android:layout_marginTop="30mm"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="center"
+        android:text="@string/Credit_score"
+        android:textColor="@color/sub_btn_tick"
+        android:textSize="20dp"
+
+        android:textStyle="italic" />
+
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonstyle"
+
+        android:layout_marginLeft="20mm"
+        android:layout_marginTop="55mm"
+        android:text="My Credit Score" />
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="850dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+
+</FrameLayout>

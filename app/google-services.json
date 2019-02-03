@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "17326782391",
+    "firebase_url": "https://paynow8185.firebaseio.com",
+    "project_id": "paynow8185",
+    "storage_bucket": "paynow8185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17326782391:android:2a6934f39d44267d",
+        "android_client_info": {
+          "package_name": "com.krisabh.credit_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17326782391-u3tleb8li9j4ot7gdi8rpk2k6m6u9j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3RnXGn1MS1j4cWg68vA3Z9tGBkmJFWY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
